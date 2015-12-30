@@ -1,0 +1,6 @@
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\Extension\bin\Debug\KirkChen.Library.Extension.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\Extension\bin\Debug\KirkChen.Library.Extension.pdb
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\Extension\bin\Debug\NPOI.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\Extension\obj\Debug\KirkChen.Library.Extension.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\Extension\obj\Debug\KirkChen.Library.Extension.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\Extension\obj\Debug\KirkChen.Library.Extension.pdb

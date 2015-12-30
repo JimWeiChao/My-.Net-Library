@@ -1,0 +1,7 @@
+C:\Users\Jim\Desktop\CI-Sample-master\CI-Sample-master\CI-Sample.Test\bin\Debug\CI-Sample.Test.dll
+C:\Users\Jim\Desktop\CI-Sample-master\CI-Sample-master\CI-Sample.Test\bin\Debug\CI-Sample.Test.pdb
+C:\Users\Jim\Desktop\CI-Sample-master\CI-Sample-master\CI-Sample.Test\bin\Debug\CI-Sample.dll
+C:\Users\Jim\Desktop\CI-Sample-master\CI-Sample-master\CI-Sample.Test\bin\Debug\CI-Sample.pdb
+C:\Users\Jim\Desktop\CI-Sample-master\CI-Sample-master\CI-Sample.Test\obj\Debug\CI-Sample.Test.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\CI-Sample-master\CI-Sample-master\CI-Sample.Test\obj\Debug\CI-Sample.Test.dll
+C:\Users\Jim\Desktop\CI-Sample-master\CI-Sample-master\CI-Sample.Test\obj\Debug\CI-Sample.Test.pdb

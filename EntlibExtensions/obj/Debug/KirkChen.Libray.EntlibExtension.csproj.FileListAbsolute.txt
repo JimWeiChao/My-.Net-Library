@@ -1,0 +1,12 @@
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\bin\Debug\KirkChen.Library.EntlibExtension.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\bin\Debug\KirkChen.Library.EntlibExtension.pdb
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\bin\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\obj\Debug\KirkChen.Libray.EntlibExtension.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\obj\Debug\KirkChen.Library.EntlibExtension.dll
+C:\Users\Jim\Documents\GitHub\My-.Net-Library\EntlibExtensions\obj\Debug\KirkChen.Library.EntlibExtension.pdb
