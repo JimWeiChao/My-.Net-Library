@@ -3,3 +3,8 @@ C:\Users\Jim\Documents\GitHub\My-.Net-Library\Helper\bin\Debug\KirkChen.Library.
 C:\Users\Jim\Documents\GitHub\My-.Net-Library\Helper\obj\Debug\KirkChen.Library.Helper.csprojResolveAssemblyReference.cache
 C:\Users\Jim\Documents\GitHub\My-.Net-Library\Helper\obj\Debug\KirkChen.Library.Helper.dll
 C:\Users\Jim\Documents\GitHub\My-.Net-Library\Helper\obj\Debug\KirkChen.Library.Helper.pdb
+C:\Users\Jim\Desktop\My-.Net-Library\Helper\bin\Debug\KirkChen.Library.Helper.dll
+C:\Users\Jim\Desktop\My-.Net-Library\Helper\bin\Debug\KirkChen.Library.Helper.pdb
+C:\Users\Jim\Desktop\My-.Net-Library\Helper\obj\Debug\KirkChen.Library.Helper.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\My-.Net-Library\Helper\obj\Debug\KirkChen.Library.Helper.dll
+C:\Users\Jim\Desktop\My-.Net-Library\Helper\obj\Debug\KirkChen.Library.Helper.pdb
